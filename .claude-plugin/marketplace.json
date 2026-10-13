@@ -1,0 +1,17 @@
+{
+  "name": "joey-agents",
+  "owner": {
+    "name": "Joey Marshall",
+    "url": "https://github.com/marsha5813"
+  },
+  "metadata": {
+    "description": "Joey Marshall's Claude Code agents: a coder + code-reviewer engineering pair."
+  },
+  "plugins": [
+    {
+      "name": "joey-agents",
+      "source": "./",
+      "description": "coder + code-reviewer agent pair"
+    }
+  ]
+}

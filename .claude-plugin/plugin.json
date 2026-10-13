@@ -1,0 +1,9 @@
+{
+  "name": "joey-agents",
+  "version": "0.1.0",
+  "description": "A coder + code-reviewer agent pair: an Opus lead engineer that plans, builds, and calls a read-only Sonnet reviewer at design, first-unit, and final-pass milestones.",
+  "author": { "name": "Joey Marshall", "url": "https://github.com/marsha5813" },
+  "repository": "https://github.com/marsha5813/joey-agents",
+  "license": "MIT",
+  "keywords": ["agents", "code-review", "engineering"]
+}
